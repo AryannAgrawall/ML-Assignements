@@ -1,4 +1,5 @@
 # Contents:
+the first assignement mainly focused on data-wrangling and eda, which includes the given processes
 ## 1. Data Cleaning
    - Handling duplicates.
    - Treating missing values (numeric: mean/median, categorical: mode).
